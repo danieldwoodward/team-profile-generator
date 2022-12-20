@@ -1,0 +1,23 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "creates web-page with team members in work-place",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldwoodward/team-profile-generator.git"
+  },
+  "author": "Daniel Woodward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danieldwoodward/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/danieldwoodward/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0"
+  }
+}
